@@ -85,9 +85,6 @@ This project is designed as a complete solution for food quality assessment. Con
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contact
-
-**Ramya V**
-- 9750ramya@gmail.com
-- https://www.linkedin.com/in/ramya-v-0135a9257/
+Dharshini D
 
 Thanks for viewing the project...
